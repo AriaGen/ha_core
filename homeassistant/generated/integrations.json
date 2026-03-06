@@ -1325,6 +1325,12 @@
         }
       }
     },
+    "denon_rs232": {
+      "name": "Denon RS232",
+      "integration_type": "hub",
+      "config_flow": true,
+      "iot_class": "local_push"
+    },
     "devialet": {
       "name": "Devialet",
       "integration_type": "device",
